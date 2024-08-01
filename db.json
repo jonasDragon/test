@@ -1,0 +1,79 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "company": "Tech Solutions",
+      "location": "San Francisco, CA",
+      "type": "Full-time",
+      "salary": "$120,000 - $150,000",
+      "description": "Develop and maintain web applications, collaborate with cross-functional teams, and contribute to all phases of the development lifecycle.",
+      "requirements": [
+        "Bachelor's degree in Computer Science or related field",
+        "3+ years of experience in software development",
+        "Proficiency in JavaScript, HTML, CSS, and at least one modern JavaScript framework (e.g., React, Angular, Vue)"
+      ],
+      "posted_date": "2024-07-20"
+    },
+    {
+      "id": 2,
+      "title": "Data Analyst",
+      "company": "Market Insights",
+      "location": "New York, NY",
+      "type": "Full-time",
+      "salary": "$70,000 - $90,000",
+      "description": "Analyze and interpret complex data sets, create reports and visualizations, and support data-driven decision-making processes.",
+      "requirements": [
+        "Bachelor's degree in Statistics, Mathematics, or related field",
+        "2+ years of experience in data analysis",
+        "Proficiency in SQL, Excel, and data visualization tools (e.g., Tableau, Power BI)"
+      ],
+      "posted_date": "2024-07-18"
+    },
+    {
+      "id": 3,
+      "title": "Project Manager",
+      "company": "Business Solutions",
+      "location": "Chicago, IL",
+      "type": "Contract",
+      "salary": "$80,000 - $100,000",
+      "description": "Manage and oversee project lifecycle, coordinate with stakeholders, and ensure project delivery within scope, time, and budget.",
+      "requirements": [
+        "Bachelor's degree in Business Administration or related field",
+        "5+ years of experience in project management",
+        "PMP certification preferred"
+      ],
+      "posted_date": "2024-07-25"
+    },
+    {
+      "id": 4,
+      "title": "Marketing Specialist",
+      "company": "Creative Agency",
+      "location": "Austin, TX",
+      "type": "Part-time",
+      "salary": "$40,000 - $60,000",
+      "description": "Develop and implement marketing strategies, manage social media accounts, and create marketing content.",
+      "requirements": [
+        "Bachelor's degree in Marketing, Communications, or related field",
+        "1+ years of experience in marketing",
+        "Strong communication and writing skills"
+      ],
+      "posted_date": "2024-07-22"
+    },
+    {
+      "id": 5,
+      "title": "Graphic Designer",
+      "company": "Design Studio",
+      "location": "Remote",
+      "type": "Freelance",
+      "salary": "$30/hour",
+      "description": "Create visual concepts and designs for digital and print media, collaborate with clients and team members, and deliver high-quality graphic solutions.",
+      "requirements": [
+        "Bachelor's degree in Graphic Design or related field",
+        "3+ years of experience in graphic design",
+        "Proficiency in Adobe Creative Suite (Photoshop, Illustrator, InDesign)"
+      ],
+      "posted_date": "2024-07-15"
+    }
+  ]
+}
